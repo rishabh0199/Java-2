@@ -1,0 +1,7 @@
+In this example, we:
+
+Specify the file path (you should replace "output.txt" with the actual path where you want to write the file).
+Create a FileWriter to open the file for writing.
+Use the write() method to write text to the file.
+Close the FileWriter to save and close the file.
+Remember to handle exceptions properly, as shown in both examples, to deal with any potential issues during file reading and writing.

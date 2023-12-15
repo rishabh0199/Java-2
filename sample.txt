@@ -1,0 +1,9 @@
+Hi rishabh
+
+In this example, we:
+
+Specify the file path (you should replace "sample.txt" with the actual path of the file you want to read).
+Create a FileReader to open the file for reading.
+Create a BufferedReader to efficiently read lines from the file.
+Use a while loop to read lines from the file until there are no more lines (indicated by readLine() returning null).
+Close the resources to release them properly.
